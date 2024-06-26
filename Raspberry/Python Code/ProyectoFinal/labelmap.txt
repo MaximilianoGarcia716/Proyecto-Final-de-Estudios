@@ -1,0 +1,5 @@
+Biologico
+Corrosivo
+Inflamable
+Radioactivo
+Toxico

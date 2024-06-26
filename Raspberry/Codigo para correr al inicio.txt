@@ -1,0 +1,8 @@
+Se crea la carpeta
+
+/home/maxiwarhammer/.config/autostart
+
+Y el siguiente script
+
+ProyectoFinal.desktop:
+

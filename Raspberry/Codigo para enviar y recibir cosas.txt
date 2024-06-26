@@ -1,0 +1,9 @@
+Hay que editar y crear una carpeta para transferir cosas
+
+De raspberry a PC Desktop
+
+scp -r maxiwarhammer@maxiraspi:"'/home/maxiwarhammer/Documents/Python Code'" "C:\Users\MAXI\Dropbox\Proyecto final de estudios\Raspberry"
+
+De Pc Desktop a raspberry
+
+scp -r "C:\Users\MAXI\Dropbox\Proyecto final de estudios\Raspberry\Python Code" maxiwarhammer@maxiraspi:"'/home/maxiwarhammer/Documents'"

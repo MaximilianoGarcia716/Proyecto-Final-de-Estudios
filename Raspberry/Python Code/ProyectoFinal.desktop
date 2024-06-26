@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=ProyectoFinal
+Comment=Mi proyecto final de estudios
+Exec=lxterminal -e /home/maxiwarhammer/Documents/ProyectoFinal/ProyectoFinal.sh
+Type=Application
+Terminal=false

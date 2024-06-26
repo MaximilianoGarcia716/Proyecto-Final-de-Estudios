@@ -1,0 +1,11 @@
+-------Hostpot---------
+Usar version Raspbian Bookworm
+Tocar en conexion wifi-Opciones avanzadas-Create wireless hotspot
+Configurar a gusto
+-------VNC-------------
+En TigerVNC cambiar la configuración de compresión a "Raw"
+Usar advanced IP scanner para identificar la IP de la Raspberry
+Conectar a la IP obtenida previamente
+
+??????
+Profit
